@@ -14,8 +14,10 @@ void draw(){
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
-  
-
+  color
+var fillR = 255;
+var fillG = 77;
+var fillB = 255;
 }
 
 //🟡Extra FUN Features Ms. Hall Added
